@@ -1,4 +1,4 @@
-## [Hi there 👋](https://iliya-bolotov.vercel.app/)
+## [Hi there 👋](https://iliya-bolotov.space/)
 
 ***
 
