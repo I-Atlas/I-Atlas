@@ -1,8 +1,6 @@
 ## [Hi there 👋](https://iliya-bolotov.space/)
 
 ***
-![](https://hit.yhype.me/github/profile?user_id=54947380)
-***
 
 ## 📬 Get in touch
 
@@ -15,3 +13,7 @@
 [2]: https://t.me/I_Atlas
 [3]: https://www.linkedin.com/in/bolotov-iliya
 [4]: https://www.instagram.com/iatlas1
+
+***
+
+![](https://hit.yhype.me/github/profile?user_id=54947380)
