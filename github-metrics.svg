@@ -1097,7 +1097,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 22:00
+                            Mostly push code around 00:00
                         </li>
                         <li>
                             Mostly active on monday
@@ -1241,7 +1241,7 @@
                                             cypress-io/cypress
                                         </span>
                                         <span>
-                                            starred 2 days ago
+                                            starred 3 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1384,7 +1384,7 @@ fix: update README
                     These metrics include private contributions, timezone Europe/Moscow
                 </span>
                 <span>
-                    Last updated Wed, 07 Apr 2021 19:08:45 GMT with lowlighter/metrics@3.6.0
+                    Last updated Wed, 07 Apr 2021 20:02:53 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
