@@ -1125,7 +1125,7 @@
                                             ankidroid/Anki-Android
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1384,7 +1384,7 @@ fix: update README
                     These metrics include private contributions, timezone Europe/Moscow
                 </span>
                 <span>
-                    Last updated Thu, 08 Apr 2021 15:02:46 GMT with lowlighter/metrics@3.6.0
+                    Last updated Thu, 08 Apr 2021 16:04:10 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
