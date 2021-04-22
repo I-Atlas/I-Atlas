@@ -1271,7 +1271,7 @@
                                             mui-org/material-ui
                                         </span>
                                         <span>
-                                            starred 7 days ago
+                                            starred 8 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1716,7 +1716,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                     These metrics include private contributions, timezone Europe/Moscow
                 </span>
                 <span>
-                    Last updated Thu, 22 Apr 2021 18:12:15 GMT with lowlighter/metrics@3.7.0
+                    Last updated Thu, 22 Apr 2021 19:09:31 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
