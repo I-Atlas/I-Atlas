@@ -1437,7 +1437,7 @@ BREAKING CHANGE: fetchIds are now refs and there's no more fetch (use sendCall)<
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Moscow</span>
-                <span>Last updated Thu, 06 May 2021 10:07:27 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Thu, 06 May 2021 11:06:27 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
