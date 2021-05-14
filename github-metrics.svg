@@ -1451,7 +1451,7 @@ fix(useReactive): 修复当使用 delete 操作符时页面不刷新</span>
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Europe/Moscow</span>
-                <span>Last updated Fri, 14 May 2021 14:15:27 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Fri, 14 May 2021 15:14:34 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
