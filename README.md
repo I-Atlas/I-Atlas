@@ -1,4 +1,4 @@
-## [Hi there 👋](https://iliya-bolotov.space/)
+## [Hi there 👋](https://bolotov-iliya.space/)
 
 ---
 
