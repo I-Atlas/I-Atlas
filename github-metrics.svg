@@ -1408,14 +1408,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.88282214375977" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="308.88282214375977" y="0" width="58.524553037781786" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="367.4073751815415" y="0" width="37.38075586340594" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.7881310449475" y="0" width="24.693168345333103" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="429.4812993902806" y="0" width="15.195198845940542" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.6764982362211" y="0" width="7.977037534580312" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="452.6535357708014" y="0" width="4.567658687241105" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.2211944580425" y="0" width="2.778805541957445" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.887706659473" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="308.887706659473" y="0" width="58.52266136601437" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="367.4103680254874" y="0" width="37.379547616322604" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.78991564180996" y="0" width="24.692370195377528" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="429.48228583718753" y="0" width="15.194707696035673" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.6769935332232" y="0" width="7.976779695162348" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="452.65377322838555" y="0" width="4.567511048164284" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.2212842765498" y="0" width="2.778715723450203" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1457,13 +1457,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 30 commits)</small>
+        <small class="h-details">(computed from last 31 commits)</small>
       
     </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 28.9 characters per line of code written</li>
+                        <li>Has approximately 28.8 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1484,7 +1484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gokulkrishh/awesome-meta-and-manifest</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1497,7 +1497,7 @@
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    585
+                    586
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mvllow/next-pwa-template</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1585,7 +1585,7 @@
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    7.58k
+                    7.59k
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -1630,14 +1630,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a161054</span>
-                                        <span class="message">Merge pull request #9 from I-Atlas/SPACE-7/feat/add-bottom-navbar
+                                        <span class="sha">#e4b1a74</span>
+                                        <span class="message">Merge pull request #10 from I-Atlas/SPACE-7/feat/add-bottom-navbar
 
-[SPACE-7] feat: add bottom navbar, refactor top navigation, update components for mobile sizes, turn on PWA mode</span>
+[SPACE-7] fix: change icons in navigation, configs and tech-stack</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#01e4eab</span>
-                                        <span class="message">[SPACE-7] feat: add bottom navbar, refactor top navigation, update components for mobile sizes, turn on PWA mode</span>
+                                        <span class="sha">#b209539</span>
+                                        <span class="message">[SPACE-7] fix: change icons in navigation, configs and tech-stack</span>
                                     </div>
                                 </div>
                             </section>
@@ -1649,12 +1649,12 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                      Merged <span class="issue">#9 [SPACE-7] feat: add bottom navbar, refactor top navigation, update components for mobile sizes, turn on PWA mode</span>
+                      Merged <span class="issue">#10 [SPACE-7] fix: change icons in navigation, configs and tech-stack</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">I-Atlas/space</span></div>
-                                    <div>12 files changed <span class="code">++355 --268</span></div>
+                                    <div>4 files changed <span class="code">++50 --21</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1663,7 +1663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2021, 16:18:15 (timezone Europe/Moscow) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 8 Dec 2021, 17:08:35 (timezone Europe/Moscow) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
