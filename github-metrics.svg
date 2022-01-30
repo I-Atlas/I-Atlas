@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>debut-js/Strategies</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of trading strategies based on indicators. Pre-configured environment for working with the Debut algo-trading constructor. (Javascript)</div>
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2022, 10:08:56 (timezone Europe/Moscow) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 30 Jan 2022, 11:09:43 (timezone Europe/Moscow) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
