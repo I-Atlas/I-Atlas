@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saas-js/saas-ui</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The frontend stack for SaaS companies, build with Chakra UI.</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>homefile-dev/storybook-chakra</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Components repository configured from scratch to run storybook and Chakra UI components</div>
@@ -215,7 +215,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tenniscenter-Buchs/booking</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tenniscenter buchs' new booking platform</div>
@@ -310,7 +310,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2022, 07:12:15 (timezone Europe/Moscow) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 2 Apr 2022, 08:09:15 (timezone Europe/Moscow) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
