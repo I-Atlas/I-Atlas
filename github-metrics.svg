@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>demondazeee/nextjs-auth</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Authentication using NextJS and NestJS</div>
@@ -162,7 +162,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsoaress/next-nest-auth</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fullstack application in TypeScript, using Nest.js (back-end) and Next.js (front-end) for authentication and authorization.</div>
@@ -323,7 +323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 17:09:35 (timezone Europe/Moscow) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 18:10:20 (timezone Europe/Moscow) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
