@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>graphile/starter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flash-oss/medici</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Double-entry accounting system for nodejs + mongoose</div>
@@ -323,7 +323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 00:10:58 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 01:10:07 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
