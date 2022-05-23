@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kapepa/Club-House</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nestjs, nextjs, socket.io, simple-peer(WebRTC), nodemailer, sms, JWT, passport-jwt, js-cookie, multer,  axios, typeorm, MySQL, swagger, redux toolkit, next-redux-wrapper, ...</div>
@@ -162,7 +162,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kapepa/TJournal</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nestjs, nextjs, socket.io, nodemailer, react-google-recaptcha, JWT, passport-jwt, js-cookie, multer,  axios, typeorm, MySQL, swagger, redux toolkit, next-redux-wrapper, docker,...</div>
@@ -209,7 +209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gzeromin/zero-slack</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">backend- nestjs, typeorm / frontend- react, swr / socket, mysql ... slack clone coding</div>
@@ -304,7 +304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 19:14:17 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 20:16:42 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
