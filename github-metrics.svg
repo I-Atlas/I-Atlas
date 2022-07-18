@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/realtime</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.</div>
@@ -322,7 +322,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2022, 13:13:09 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 14:09:22 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
