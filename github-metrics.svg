@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/realtime</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.</div>
@@ -503,7 +503,7 @@ Co-authored-by: Steve Ruiz &lt;steveruizok@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 23:12:19 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 00:11:19 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
