@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/realtime</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supabase</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source Firebase alternative. Follow to stay updated about our public Beta.</div>
@@ -536,7 +536,7 @@ Co-authored-by: Steve Ruiz &lt;steveruizok@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 23:11:42 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 00:09:34 (timezone Europe/Moscow) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
