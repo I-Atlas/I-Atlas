@@ -110,7 +110,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duongdev/kathena</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kathena Online Learning Management Platform</div>
@@ -157,7 +157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devLeaders/CodeTutorials</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeTutorials is an open source e-learning platform. It includes native apps Android, iOS, and the web. The platform was created using react, react native and nestjs.</div>
@@ -204,7 +204,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chanzuckerberg/edu-design-system</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design system for the Learning Platform</div>
@@ -305,7 +305,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2022, 15:19:15 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Sept 2022, 16:28:07 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
