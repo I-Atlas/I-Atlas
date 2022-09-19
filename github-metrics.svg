@@ -110,7 +110,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/lottie-web</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</div>
@@ -163,7 +163,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imamabdulazis/FlutterCleanArchitecture</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is implementation clean architecture by Uncle Bob. We can implementation this project to make application with many module and component like Dio, RxDart, Bloc and others.</div>
@@ -318,7 +318,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2022, 02:11:40 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Sept 2022, 04:04:46 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
