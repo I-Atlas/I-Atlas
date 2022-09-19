@@ -157,7 +157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/lottie-web</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</div>
@@ -311,7 +311,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2022, 20:26:56 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Sept 2022, 21:17:25 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
