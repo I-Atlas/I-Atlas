@@ -110,7 +110,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>movahedan/next-boilerplate</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A well-structured production-ready Next.js boilerplate with a well-documented directory structuring that supports Typescript, Jest, react-testing-library, Cypress, configurable Fetch and SWR, and a configured component library using Emotion, twin.macro, Tailwind, and Storybook. Plus, taking advantage of NextSeo and NextSitemap.</div>
@@ -163,7 +163,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomanagle/NextJS-NestJS-GraphQL-Starter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A production-ready NextJS &amp; NestJS GraphQL starter pack</div>
@@ -216,7 +216,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jigsaw-Code/outline-client</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.</div>
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2022, 12:21:51 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Sept 2022, 13:15:11 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
