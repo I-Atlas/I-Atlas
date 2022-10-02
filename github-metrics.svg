@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flexdinesh/keystone-static-blog</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Starter template to statically generate blog websites with Next.js and Keystone</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rwieruch/nextjs-firebase-authentication</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next.js + Firebase Starter</div>
@@ -316,7 +316,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2022, 21:14:42 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Oct 2022, 22:12:09 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
