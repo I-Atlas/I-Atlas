@@ -161,7 +161,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acdlite/react-fiber-architecture</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A description of React's new core algorithm, React Fiber</div>
@@ -202,7 +202,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v8/v8</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official mirror of the V8 Git repository</div>
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2022, 23:13:46 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Oct 2022, 00:13:13 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
