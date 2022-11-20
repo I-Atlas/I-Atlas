@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharjeel619/react-tradingview</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Trading View Chart integrated with Binance  API using React.js</div>
@@ -162,7 +162,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>martinjedwabny/protalyze</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and simple workout app, to create custom timers, log your sessions, track your progress and share your workouts with friends. Built with Flutter and Firebase as its backend.</div>
@@ -320,7 +320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2022, 19:13:17 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 20 Nov 2022, 20:09:25 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
