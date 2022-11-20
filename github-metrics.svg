@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrianmanchev/trading-charts</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharjeel619/react-tradingview</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Trading View Chart integrated with Binance  API using React.js</div>
@@ -320,7 +320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2022, 01:09:26 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 21 Nov 2022, 02:10:52 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
