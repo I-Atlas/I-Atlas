@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rainner/binance-watch</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This application connects to the Binance.com public API to get live 24h price change data for all crypto trading pairs on their platform and allows you to set custom alerts or watch for price change in real time and get desktop notifications when something triggers your alerts or price watch settings.</div>
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrianmanchev/trading-charts</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.</div>
@@ -330,7 +330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2022, 19:14:19 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 21 Nov 2022, 20:12:48 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
