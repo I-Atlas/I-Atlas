@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rainner/binance-watch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This application connects to the Binance.com public API to get live 24h price change data for all crypto trading pairs on their platform and allows you to set custom alerts or watch for price change in real time and get desktop notifications when something triggers your alerts or price watch settings.</div>
@@ -327,7 +327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 14:09:13 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 15:20:54 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
