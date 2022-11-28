@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.66557403854745" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="282.66557403854745" y="0" width="54.73559983952816" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="337.4011738780756" y="0" width="47.56450150109611" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.9656753791717" y="0" width="23.298110653314296" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="408.26378603248605" y="0" width="20.466824730154446" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="428.7306107626405" y="0" width="15.171588880290676" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.9021996429311" y="0" width="11.825857640189449" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.72805728312056" y="0" width="4.271942716879393" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.87854451372567" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="282.87854451372567" y="0" width="54.66986490597655" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="337.54840941970224" y="0" width="47.50737872625201" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.05578814595424" y="0" width="23.270130695843037" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="408.32591884179726" y="0" width="20.442245016629908" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="428.76816385842716" y="0" width="15.15336850105226" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.92153235947944" y="0" width="11.811655330021152" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.73318768950054" y="0" width="4.266812310499383" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Temzasse/react-modal-sheet</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐</div>
@@ -327,7 +327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2022, 10:10:03 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 28 Nov 2022, 11:13:33 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
