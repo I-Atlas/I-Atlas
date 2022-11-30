@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.87854451372567" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="282.87854451372567" y="0" width="54.66986490597655" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="337.54840941970224" y="0" width="47.50737872625201" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.05578814595424" y="0" width="23.270130695843037" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="408.32591884179726" y="0" width="20.442245016629908" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="428.76816385842716" y="0" width="15.15336850105226" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.92153235947944" y="0" width="11.811655330021152" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.73318768950054" y="0" width="4.266812310499383" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.09466153615335" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="283.09466153615335" y="0" width="54.60315876703045" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="337.6978203031838" y="0" width="47.449411986957365" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.1472322901412" y="0" width="23.241737346524168" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="408.38896963666537" y="0" width="20.41730214840086" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="428.80627178506626" y="0" width="15.13487892354057" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.9411507086068" y="0" width="11.79724318682338" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.7383938954302" y="0" width="4.261606104569835" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -168,7 +168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kaspar1ndustries/react-notify-client</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React + Nextjs app</div>
@@ -337,7 +337,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2022, 13:11:07 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 30 Nov 2022, 14:09:28 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
