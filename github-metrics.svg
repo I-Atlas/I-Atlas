@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tomburgs/pwa-boilerplate</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ PWA Boilerplate is highly scalable and is designed to help you kick-start your next project 🔭.</div>
@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeremybarbet/react-native-modalize</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A highly customizable modal/bottom sheet that loves scrolling content.</div>
@@ -421,7 +421,7 @@ feat: refactorings</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 10:09:00 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 12:09:09 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
