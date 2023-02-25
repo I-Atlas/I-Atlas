@@ -115,7 +115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamNilotpal/infinite-scroll</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infinite scrolling using FlashList and React Query</div>
@@ -209,7 +209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goveo/react-international-phone</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☎️ International phone input component for React</div>
@@ -327,7 +327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2023, 18:09:01 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Feb 2023, 19:11:34 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
