@@ -5,11 +5,9 @@
 
 - Email: [bolotov.iliya.w@gmail.com][1]
 - Telegram: [@iliyabol][2]
-- LinkedIn: [linkedin.com/in/bolotov-iliya][3]
 
 [1]: mailto:bolotov.iliya.w@gmail.com
 [2]: https://t.me/iliyabol
-[3]: https://www.linkedin.com/in/bolotov-iliya
 
 ---
 
