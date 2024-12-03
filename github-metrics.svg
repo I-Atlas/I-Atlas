@@ -26,7 +26,7 @@
                     <rect mask="url(#languages-bar)" x="340.4255405278722" y="0" width="63.532308098756594" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="403.9578486266288" y="0" width="23.935179266910406" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="427.8930278935392" y="0" width="12.077357059460196" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.97038495299944" y="0" width="10.441136365573254" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="439.97038495299944" y="0" width="10.441136365573254" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="450.4115213185727" y="0" width="5.17180988418173" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="455.58333120275444" y="0" width="4.416668797245587" height="8" fill="#89e051"/>
                 </svg>
@@ -63,7 +63,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -325,7 +325,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.46m out of 211m repositories</span>
+                                    <span class="gh">ranked 2.46m out of 218m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 15:03:51 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 16:09:20 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
