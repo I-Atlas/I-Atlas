@@ -1,4 +1,5 @@
-## Hi there 👋
+![Metrics](https://github.com/I-Atlas/I-Atlas/blob/master/github-metrics.svg)
+
 ---
 
 ## 📬 Get in touch
@@ -8,7 +9,3 @@
 
 [1]: mailto:bolotov.iliya.w@gmail.com
 [2]: https://t.me/iliyabol
-
----
-
-![Metrics](https://github.com/I-Atlas/I-Atlas/blob/master/github-metrics.svg)
