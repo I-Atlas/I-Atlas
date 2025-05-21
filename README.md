@@ -12,5 +12,3 @@
 ---
 
 ![Metrics](https://github.com/I-Atlas/I-Atlas/blob/master/github-metrics.svg)
-
-![](https://hit.yhype.me/github/profile?user_id=54947380)
