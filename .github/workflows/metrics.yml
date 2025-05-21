@@ -20,15 +20,10 @@ jobs:
           # Options
           user: I-Atlas
           template: classic
-          base: metadata
+          base: header, repositories, metadata
+          plugin_lines: yes
           config_timezone: Europe/Moscow
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_habits: yes
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
